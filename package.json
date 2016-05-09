@@ -1,0 +1,22 @@
+{
+  "name": "ncu-practices",
+  "version": "0.0.1",
+  "description": "Practices for NCUAcademy2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raylin/NCU-practices.git"
+  },
+  "author": "Ray Lin",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/raylin/NCU-practices/issues"
+  },
+  "homepage": "https://github.com/raylin/NCU-practices#readme",
+  "dependencies": {
+    "restify": "^4.0.4"
+  }
+}
